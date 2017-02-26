@@ -1,2 +1,3 @@
 # networks-socket
-code implementations of assignments for CS:3200 Networks course IIT Madras
+
+linux Socket programming codes(for CS:3200 Networks course assignments at IIT Madras)
